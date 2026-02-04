@@ -6,8 +6,8 @@ dependencies:
   - dlib
   - cmake
   - numpy
-  - opencv
   - pip
   - pip:
-    - face-recognition
     - streamlit
+    - face-recognition
+    - opencv-python-headless
