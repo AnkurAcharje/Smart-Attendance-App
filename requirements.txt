@@ -1,7 +1,5 @@
---index-url https://pypi.org/simple
 cmake
+dlib
+face_recognition
 numpy
 opencv-python-headless
-face-recognition
-dlib-bin
-streamlit
