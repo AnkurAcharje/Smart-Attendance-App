@@ -1,2 +1,4 @@
 cmake
-libgl1
+gcc
+g++
+build-essential
